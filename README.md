@@ -11,6 +11,7 @@ btc的usdt本位为BTC-USDT-SWAP,如果需要更换交易对,请自行修改, <b
 例如ETH-USDT-SWAP,SOL-USDT-SWAP,请使用大写 <br>
 本策略需要梯子,请自行翻墙. 或者购买境外服务器.<br>
 TradingOS 有币本位策略,如有需要请找我定制 <br>
-
+如果出现一个data错误是因为你之前没有交易过该交易对,所以读取不到之前的信息无需理会,当第一次交易之后就会消失,当然你可以先进行一张的交易 <br>
+本策略为单向策略,请使用买卖模式 <br>
 下载链接, <br>
 链接: https://pan.baidu.com/s/1kXDSGBrFYfaFkgLpGIdTYQ?pwd=j5dk 提取码: j5dk 复制这段内容后打开百度网盘手机App，操作更方便哦
