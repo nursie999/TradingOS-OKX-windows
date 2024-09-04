@@ -1,6 +1,6 @@
 # TradingOS-OKX-windows
 TradingOS OKX windows <br>
-Trade robot ,swap, okx<br>
+Trade robot ,swap, okx,量化策略机器人<br>
 操作方式,下载文件并且解压,运行payment.exe文件 <br>
 点击开始订阅,按照需要转账金额向地址发送usdt,(不含手续费) <br>
 ![My Image](https://github.com/nursie999/TradingOS-OKX-windows/blob/main/1.png "payment.exe") <br>
