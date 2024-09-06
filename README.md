@@ -4,7 +4,7 @@ Trade robot ,swap, okx,量化策略机器人<br>
 操作方式,下载文件并且解压,运行payment.exe文件 <br>
 点击开始订阅,按照需要转账金额向地址发送usdt,(不含手续费) <br>
 ![My Image](https://github.com/nursie999/TradingOS-OKX-windows/blob/main/1.png "payment.exe") <br>
-![My Image](https://github.com/nursie999/TradingOS-OKX-windows/blob/main/2.png "trading_os.exe") <br>
+![My Image](https://github.com/nursie999/TradingOS-OKX-windows/blob/main/3.png "trading_os.exe") <br>
 付费之后会自动启动策略文件 <br>
 可以通过策略文件config.json文件配置api和交易币种, <br>
 btc的usdt本位为BTC-USDT-SWAP,如果需要更换交易对,请自行修改, <br>
