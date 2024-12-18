@@ -1,3 +1,5 @@
+请移步copy Trading binance和ok,htx,bitget都有<br>
+
 # TradingOS-OKX-windows
 TradingOS OKX windows <br>
 Trade robot ,swap, okx,量化策略机器人<br>
