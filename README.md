@@ -1,5 +1,6 @@
 请移步copy Trading binance和ok,htx,bitget都有<br>
 
+最新的trading-os交易程序,节点用户免费使用 <br>
 # TradingOS-OKX-windows
 TradingOS OKX windows <br>
 Trade robot ,swap, okx,量化策略机器人<br>
